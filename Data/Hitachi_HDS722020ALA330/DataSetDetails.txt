@@ -1,0 +1,8 @@
+Shape of datasets:
+
+Number of rows = 2608197 
+Number of columns = 12 (date, serial_number, failure, 9 SMART metrics)
+
+Number of unique hard-disks = 4683 
+Number of failures = 152
+Ratio failures/entries = 3.2458 %
